@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zinmarmyint-zmm&label=Profile%20views&color=0e75b6&style=flat" alt="zinmarmyint-zmm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zinmarmyint-zmm" alt="zinmarmyint-zmm" /></a> </p>
-
 - 📫 How to reach me **zmar9251@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

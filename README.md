@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zin Mar Myint</h1>
-<h3 align="center">Full-Stack Software Developer</h3>
+<h3 align="center">Software Developer | React, TypeScript, Python & Computer Vision</h3>
 
 <p align="center">
   I build full-stack web applications with Next.js, TypeScript and PostgreSQL, and I work with Node.js and Python.
